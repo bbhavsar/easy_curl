@@ -30,8 +30,9 @@ To run the application:
 
 Sample GET application:
 ```c++
-#include "easy_curl.h"
+#include <easy_curl.h>
 #include <iostream>
+
 int main() {
   EasyCurl ec;
   string resp;
