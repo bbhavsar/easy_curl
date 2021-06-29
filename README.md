@@ -9,7 +9,7 @@ Only GET and POST HTTP methods are supported.
 
 Steps to build and install the library `libeasy_curl.so` along with the header `easy_curl.h`.
 ```bash
-git clone easy_curl
+git clone https://github.com/bbhavsar/easy_curl.git
 cd easy_curl
 mkdir build/
 cd build
