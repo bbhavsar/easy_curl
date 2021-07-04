@@ -32,6 +32,8 @@ Sample GET application:
 #include <easy_curl.h>
 #include <iostream>
 
+using namespace std;
+
 int main() {
   EasyCurl ec;
   string resp;
