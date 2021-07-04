@@ -4,8 +4,7 @@ This is the EasyCurl implementation taken from the
 [Apache Kudu repository](https://github.com/apache/kudu/blob/master/src/kudu/util/curl_util.h#L46)
 to be able to use the library by itself without any other dependencies.
 
-It supports basic HTTP and username/password based authentication. No TLS support.
-Only GET and POST HTTP methods are supported.
+It supports basic HTTP and username/password based authentication. Only GET and POST HTTP methods are supported.
 
 Steps to build and install the library `libeasy_curl.so` along with the header `easy_curl.h`.
 ```bash
