@@ -17,7 +17,7 @@ make
 sudo make install
 ```
 
-Compilation:
+To compile your application linking easy_curl library:
 ```bash
 g++ my_app.cc -o my_app.out -leasy_curl
 ```
